@@ -1,0 +1,17 @@
+button, input, label, span.error {
+  display: block;
+  outline: none;
+}
+
+label {
+  margin-top: 1rem;
+}
+
+.error {
+  border-color: red;
+  color: red;
+}
+
+label.error {
+  color: red
+}
